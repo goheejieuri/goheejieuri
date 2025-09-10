@@ -1,7 +1,7 @@
 # Hello! 👋 I'm goheejieuri
 
 **Current status:** Not currently employed  
-**Areas of interest:** Data analysis, policy, finance, and social trends  
+**Areas of interest:** Data analysis, policy(real estate), finance, and social trends  
 
 ---
 
