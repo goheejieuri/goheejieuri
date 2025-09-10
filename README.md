@@ -1,4 +1,4 @@
-# Hello! 👋 I'm goheejieuri
+# Hello! 👋 I'm gohee
 
 **Current status:** Not currently employed  
 **Areas of interest:** Data analysis, policy(real estate), finance, and social trends  
@@ -9,17 +9,19 @@
 - Python 🐍
 - SQL 🗄️
 - Microsoft Excel, PowerPoint, Word
+  
 *(Level: Learning / Intermediate)*
 
 ---
 
 ## 💻 Projects & Bootcamp Experience
-### Codeit Data Analytics Bootcamp (Feb 2025 – Present)
+### Codeit Data Analytics Bootcamp (Feb 2025 – Aug 2025)
 A 7-month full-time bootcamp covering Python, SQL, data visualization, machine learning, and real-world projects using industry datasets.  
 
 **Key Projects:**  
 - **Public Bike Usage Analysis** – Analyzed usage patterns and station congestion using Pandas and Seaborn; proposed data-driven pricing adjustments and rebalancing strategies.  
-- **EdTech Platform User Analysis** – Analyzed user behavior data, conducted A/B testing and RFM analysis to improve subscription rates and retention; suggested content-based UX improvements.  
+- **EdTech Platform User Analysis** – Analyzed user behavior data, conducted A/B testing and RFM analysis to improve subscription rates and retention; suggested content-based UX improvements.
+- **Shared Office Access Data Analysis** – Predicted business metrics and user payment conversion using access and visit data; proposed strategies for subscription promotion and service improvement based on ML classification models. 
 - **SNS User Engagement Strategy 📊** – Based on social network usage data, aimed to increase voting participation and revenue.  
 
 ---
@@ -31,8 +33,8 @@ A 7-month full-time bootcamp covering Python, SQL, data visualization, machine l
 ---
 
 ## 🎯 Goals & Interests
-- Skills I want to learn: Advanced machine learning, data visualization, policy analytics, financial and social trend analysis  
-- Open to collaboration and contributing to open-source projects ✅  
+- Skills I want to learn: Advanced machine learning, data visualization, network analysis, time series analysis, natural language processing (NLP)  
+- Open to collaboration and contributing to open-source projects ✅
 
 ---
 
