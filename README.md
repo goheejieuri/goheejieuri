@@ -21,7 +21,7 @@ A 7-month full-time bootcamp covering Python, SQL, data visualization, machine l
 **Key Projects:**  
 - [**Public Bike Usage Analysis 🚴‍♂️**](https://github.com/goheejieuri/Public-Bike-Usage-Analysis) – Analyzed usage patterns and station congestion using Pandas and Seaborn; proposed data-driven pricing adjustments and rebalancing strategies.  
 - [**EdTech Platform User Analysis 🎓**](https://github.com/goheejieuri/EdTech-Platform-User-Analysis) – Analyzed user behavior data, conducted A/B testing and RFM analysis to improve subscription rates and retention; suggested content-based UX improvements.  
-- **Shared Office Access Data Analysis 🏢** – Predicted business metrics and user payment conversion using access and visit data; proposed strategies for subscription promotion and service improvement based on ML classification models.  
+- [**Shared Office Access Data Analysis 🏢**](https://github.com/goheejieuri/Shared-Office-Data-Analysis/tree/main) – Predicted business metrics and user payment conversion using access and visit data; proposed strategies for subscription promotion and service improvement based on ML classification models.  
 - [**SNS User Engagement Strategy 📊**](https://github.com/goheejieuri/final_project_team3)– Based on social network usage data, aimed to increase voting participation and revenue.  
 
 ---
